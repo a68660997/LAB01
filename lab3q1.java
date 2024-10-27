@@ -16,7 +16,7 @@ public class lab3q1 {       // 2022F-BSE-290
             System.out.print(array1[j]+" ");
         }
         System.out.println("\nARRAY 02 IS: ");
-
+        //make changes in any file
         for (int k=0; k<array2.length; k++) {
             System.out.print(array2[k]+" ");
         }
